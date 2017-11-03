@@ -49,6 +49,6 @@ tLinkTableNode * GetLinkTableHead(tLinkTable *pLinkTable);
  */
 tLinkTableNode * GetNextLinkTableNode(tLinkTable *pLinkTable,tLinkTableNode * pNode);
 
-#endif /* __LINK_TABLE_H__ */
+#endif
 
 
